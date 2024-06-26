@@ -1,1 +1,1 @@
-Jogo basicofeito em goodot em gd script
+Jogo basico feito em goodot em gd script
